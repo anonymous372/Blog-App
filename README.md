@@ -2,6 +2,7 @@
 Its a blog app, where you can create a blog with a title, image and desription
 ### Technologies
 MEN stack : MongoDB Express.js Node <br> 
-CSS Framework : Semantics UI
+CSS Framework : Semantics UI<br>
+RESTful Routing
 ## Snap in Action
 ![image](./public/snap.png)
